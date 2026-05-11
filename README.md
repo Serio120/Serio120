@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 <!--
 **Used Material**
-https://leviarista.github.io/github-profile-header-generator/
+https://leviarista.github.io/github-profile-header-generator/  (Banner Profile)
+https://readme.so/ (.md Files)
 -->

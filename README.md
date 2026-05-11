@@ -23,4 +23,11 @@ Here are some ideas to get you started:
 **Used Material**
 https://leviarista.github.io/github-profile-header-generator/  (Banner Profile)
 https://readme.so/ (.md Files)
+https://leviarista.github.io/github-profile-header-generator/  (Banner Profile)
+https://readme.so/ (.md Files)
+
+**No Used Material**
+https://codepen.io/ (Templates)(Editor)
+https://github.com/inttter/md-badges (BADGES)(V)
+https://shields.io/ (badges)
 -->

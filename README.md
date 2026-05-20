@@ -34,4 +34,7 @@ https://shields.io/ (badges)
 
 **Useful**
 https://buymeacoffee.com/
+
+Other
+https://logos-world.net/
 -->

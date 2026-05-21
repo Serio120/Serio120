@@ -35,6 +35,9 @@ https://shields.io/ (badges)
 **Useful**
 https://buymeacoffee.com/
 
-Other
+**Other**
 https://logos-world.net/
+
+**Important**
+https://learn.microsoft.com/en-us/windows/wsl/install
 -->

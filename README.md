@@ -103,8 +103,8 @@ Practicando desarrollo cloud y experimentando con herramientas de IA y automatiz
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serio120&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serio120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
+  <img src="https://github-stats-extended.vercel.app/api?username=Serio120&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Serio120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
 </p>
 
 <p align="center">

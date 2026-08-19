@@ -13,9 +13,9 @@
 
 <!-- Profile stats -->
 
-![Serio120's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serio120&show_icons=true&theme=default)
+![Serio120's GitHub stats](https://raw.githubusercontent.com/Serio120/Serio120/main/img/github-stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serio120&layout=compact)
+![Top Languages](https://raw.githubusercontent.com/Serio120/Serio120/main/img/top-langs.svg)
 
 Desarrollador de software centrado en Backend (Java/Spring), Python para automatización y web scraping, con experiencia en Big Data (Scala/Spark) y Frontend (React/Angular). Creo contenido educativo: roadmaps, laboratorios y guías prácticas para que otros aprendan y construyan software moderno.
 

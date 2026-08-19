@@ -11,11 +11,11 @@
 [![unlighthouse stars](https://img.shields.io/github/stars/Serio120/unlighthouse?style=for-the-badge)](https://github.com/Serio120/unlighthouse/stargazers)
 
 
-<!-- Profile stats -->
+## 📊 GitHub Stats
 
-![Serio120's GitHub stats](https://raw.githubusercontent.com/Serio120/Serio120/main/img/github-stats.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Serio120&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://raw.githubusercontent.com/Serio120/Serio120/main/img/top-langs.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serio120&layout=compact&theme=tokyonight)
 
 Desarrollador de software centrado en Backend (Java/Spring), Python para automatización y web scraping, con experiencia en Big Data (Scala/Spark) y Frontend (React/Angular). Creo contenido educativo: roadmaps, laboratorios y guías prácticas para que otros aprendan y construyan software moderno.
 

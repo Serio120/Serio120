@@ -2,6 +2,21 @@
 
 ![Header](./github-header-banner.png)
 
+<!-- Badges -->
+[![roadmap-backend-developer stars](https://img.shields.io/github/stars/Serio120/roadmap-backend-developer?style=for-the-badge)](https://github.com/Serio120/roadmap-backend-developer/stargazers) 
+[![roadmap-python-developer stars](https://img.shields.io/github/stars/Serio120/roadmap-python-developer?style=for-the-badge)](https://github.com/Serio120/roadmap-python-developer/stargazers) 
+[![big-data-pipeline-medallion stars](https://img.shields.io/github/stars/Serio120/big-data-pipeline-medallion?style=for-the-badge)](https://github.com/Serio120/big-data-pipeline-medallion/stargazers) 
+[![react-app-01 stars](https://img.shields.io/github/stars/Serio120/react-app-01?style=for-the-badge)](https://github.com/Serio120/react-app-01/stargazers) 
+[![python-job-listings-scraper stars](https://img.shields.io/github/stars/Serio120/python-job-listings-scraper?style=for-the-badge)](https://github.com/Serio120/python-job-listings-scraper/stargazers) 
+[![unlighthouse stars](https://img.shields.io/github/stars/Serio120/unlighthouse?style=for-the-badge)](https://github.com/Serio120/unlighthouse/stargazers)
+
+
+<!-- Profile stats -->
+
+![Serio120's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serio120&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serio120&layout=compact)
+
 Desarrollador de software centrado en Backend (Java/Spring), Python para automatización y web scraping, con experiencia en Big Data (Scala/Spark) y Frontend (React/Angular). Creo contenido educativo: roadmaps, laboratorios y guías prácticas para que otros aprendan y construyan software moderno.
 
 ---

@@ -1,43 +1,44 @@
-
+# 👋 Hola — Soy Serio120
 
 ![Header](./github-header-banner.png)
 
-<!--
-## Hi there 👋
+Desarrollador de software centrado en Backend (Java/Spring), Python para automatización y web scraping, con experiencia en Big Data (Scala/Spark) y Frontend (React/Angular). Creo contenido educativo: roadmaps, laboratorios y guías prácticas para que otros aprendan y construyan software moderno.
 
-**Serio120/Serio120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 En qué trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo APIs y aplicaciones backend con Java y Spring Boot.
+- Automatizo tareas y creo scrapers en Python para extracción y procesamiento de datos.
+- Diseño pipelines de datos y pruebas con Scala/Spark.
+- Construyo interfaces y proyectos prácticos con React y Angular.
+- Elaboro roadmaps, laboratorios y recursos para aprender tecnologías modernas (Azure, .NET, DevOps).
 
-<!--
-**Used Material**
-https://leviarista.github.io/github-profile-header-generator/  (Banner Profile)
-https://readme.so/ (.md Files)
-https://leviarista.github.io/github-profile-header-generator/  (Banner Profile)
-https://readme.so/ (.md Files)
-https://readmestudio.zenui.net/ (Otra herramienta para los README.md)
+## ⭐ Proyectos destacados
 
-**No Used Material**
-https://codepen.io/ (Templates)(Editor)
-https://github.com/inttter/md-badges (BADGES)(V)
-https://shields.io/ (badges)
+- [roadmap-backend-developer](https://github.com/Serio120/roadmap-backend-developer) — Guía paso a paso para convertirte en Backend Developer.
+- [roadmap-python-developer](https://github.com/Serio120/roadmap-python-developer) — Roadmap y recursos para desarrolladores Python.
+- [big-data-pipeline-medallion](https://github.com/Serio120/big-data-pipeline-medallion) — Ejemplos de pipelines y datos sintéticos con Scala/Spark.
+- [react-app-01](https://github.com/Serio120/react-app-01) — Proyecto React práctico.
+- [python-job-listings-scraper](https://github.com/Serio120/python-job-listings-scraper) — Scraper para listados de empleo (automatización).
+- [unlighthouse](https://github.com/Serio120/unlighthouse) — Herramienta para auditar rendimiento con Lighthouse.
 
-**Useful**
-https://buymeacoffee.com/
+> Tengo más ejercicios, retos y proyectos de práctica en mi perfil — revisa los repositorios públicos.
 
-**Other**
-https://logos-world.net/
+## 🛠️ Tecnologías
 
-**Important**
-https://learn.microsoft.com/en-us/windows/wsl/install
--->
+Java • Spring Boot • Python • Flask • Scala • Apache Spark • React • Angular • JavaScript • HTML/CSS • SQL • MongoDB • Docker • Azure • Git
+
+## 📚 Contenido educativo
+
+Me apasiona crear material práctico: desde roadmaps y laboratorios guiados hasta ejercicios de algoritmos. Mi objetivo es ayudar a quienes aprenden a pasar de la teoría a la práctica.
+
+## 🤝 Colaboraciones y contacto
+
+Si quieres colaborar o tienes una propuesta, abre un issue en alguno de mis repositorios o envíame un mensaje por GitHub.
+
+- GitHub: https://github.com/Serio120
+
+---
+
+Gracias por visitar mi perfil — si te interesa algo concreto, abre un issue o escribe y lo hablamos 👋

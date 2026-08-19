@@ -1,4 +1,4 @@
-# 👋 Hola, soy Serio120
+# 👋 Hi, I'm Serio120
 
 ![Header](./github-header-banner.png)
 
@@ -22,40 +22,40 @@
 
 ---
 
-## 💻 Sobre mí
+## 💻 About Me
 
-Desarrollador de software orientado a **Backend**, con experiencia práctica en **Java/Spring Boot**, **Python**, **Big Data** y desarrollo web.
+I'm a software developer focused on **Backend Development**, with hands-on experience in **Java/Spring Boot**, **Python**, **Big Data**, and web development.
 
-Me gusta aprender construyendo: APIs, automatizaciones, scrapers, pipelines de datos, aplicaciones frontend y laboratorios técnicos. También creo **roadmaps, ejercicios y recursos educativos** para convertir conceptos técnicos en práctica real.
+I learn by building: APIs, automation tools, web scrapers, data pipelines, frontend applications, and technical labs. I also create **roadmaps, coding exercises, and learning resources** to turn technical concepts into practical skills.
 
 ---
 
-## 🔥 Actualmente trabajando en
+## 🔥 Currently Working On
 
 ### 🧭 Backend Development
-Profundizando en arquitectura backend, APIs, Java/Spring Boot y buenas prácticas de desarrollo.
+Deepening my knowledge of backend architecture, REST APIs, Java/Spring Boot, and software development best practices.
 
 ### ⚛️ React & Frontend
-Construyendo aplicaciones prácticas con React y reforzando JavaScript moderno, componentes y consumo de APIs.
+Building practical React applications while strengthening modern JavaScript, component-based development, and API integration.
 
 ### 🐍 Python & Automation
-Experimentando con automatización, web scraping y procesamiento de información mediante Python.
+Experimenting with automation, web scraping, and data processing using Python.
 
 ### 📊 Data Engineering & Big Data
-Explorando pipelines de datos, arquitectura Medallion, Scala y Apache Spark.
+Exploring data pipelines, Medallion Architecture, Scala, and Apache Spark.
 
 ### ☁️ Azure & AI Tools
-Practicando desarrollo cloud y experimentando con herramientas de IA y automatización como Azure y Microsoft Copilot Studio.
+Practicing cloud development and experimenting with AI and automation tools such as Azure and Microsoft Copilot Studio.
 
 ---
 
-## 🚀 Especialización
+## 🚀 Areas of Expertise
 
-| Área | Tecnologías / enfoque |
+| Area | Technologies / Focus |
 |---|---|
 | **Backend** | Java · Spring Boot · REST APIs · Flask |
-| **Python** | Automatización · Web Scraping · Data Processing |
-| **Data Engineering** | Scala · Apache Spark · Pipelines · Medallion Architecture |
+| **Python** | Automation · Web Scraping · Data Processing |
+| **Data Engineering** | Scala · Apache Spark · Data Pipelines · Medallion Architecture |
 | **Frontend** | React · Angular · JavaScript · HTML · CSS |
 | **Cloud & DevOps** | Azure · Docker · Git · GitHub |
 | **Databases** | SQL · MongoDB |
@@ -67,24 +67,24 @@ Practicando desarrollo cloud y experimentando con herramientas de IA y automatiz
 
 ### 🧭 Roadmaps & Learning
 
-| Proyecto | Descripción |
+| Project | Description |
 |---|---|
-| [**roadmap-backend-developer**](https://github.com/Serio120/roadmap-backend-developer) | Ruta práctica para convertirse en Backend Developer. |
-| [**roadmap-python-developer**](https://github.com/Serio120/roadmap-python-developer) | Ruta y recursos para desarrollo con Python. |
-| [**roadmap-frontend-developer**](https://github.com/Serio120/roadmap-frontend-developer) | Roadmap de tecnologías y competencias frontend. |
-| [**roadmap-dotnet**](https://github.com/Serio120/roadmap-dotnet) | Ruta de aprendizaje de .NET. |
-| [**roadmap-leetcode**](https://github.com/Serio120/roadmap-leetcode) | Algoritmos, problemas y práctica de programación. |
+| [**roadmap-backend-developer**](https://github.com/Serio120/roadmap-backend-developer) | A practical roadmap for becoming a Backend Developer. |
+| [**roadmap-python-developer**](https://github.com/Serio120/roadmap-python-developer) | A learning path and resource collection for Python development. |
+| [**roadmap-frontend-developer**](https://github.com/Serio120/roadmap-frontend-developer) | A roadmap covering modern frontend technologies and skills. |
+| [**roadmap-dotnet**](https://github.com/Serio120/roadmap-dotnet) | A structured learning path for .NET development. |
+| [**roadmap-leetcode**](https://github.com/Serio120/roadmap-leetcode) | Algorithms, coding problems, and problem-solving practice. |
 
 ### 🧩 Technical Projects
 
-| Proyecto | Descripción |
+| Project | Description |
 |---|---|
-| [**big-data-pipeline-medallion**](https://github.com/Serio120/big-data-pipeline-medallion) | Arquitectura de procesamiento de datos con Scala/Spark. |
-| [**python-job-listings-scraper**](https://github.com/Serio120/python-job-listings-scraper) | Automatización y scraping con Python. |
-| [**react-app-01**](https://github.com/Serio120/react-app-01) | Aplicación práctica desarrollada con React. |
-| [**unlighthouse**](https://github.com/Serio120/unlighthouse) | Proyecto relacionado con auditoría y rendimiento web. |
-| [**labs-azure-AZ-204**](https://github.com/Serio120/labs-azure-AZ-204) | Laboratorios prácticos de desarrollo en Azure. |
-| [**Copilot-Studio-Exercises**](https://github.com/Serio120/Copilot-Studio-Exercises) | Ejercicios y experimentación con Copilot Studio. |
+| [**big-data-pipeline-medallion**](https://github.com/Serio120/big-data-pipeline-medallion) | A data processing project based on Scala, Spark, and Medallion Architecture. |
+| [**python-job-listings-scraper**](https://github.com/Serio120/python-job-listings-scraper) | A Python project focused on web scraping and automation. |
+| [**react-app-01**](https://github.com/Serio120/react-app-01) | A hands-on React application for frontend development practice. |
+| [**unlighthouse**](https://github.com/Serio120/unlighthouse) | A project focused on web performance auditing and analysis. |
+| [**labs-azure-AZ-204**](https://github.com/Serio120/labs-azure-AZ-204) | Hands-on labs for Azure development and AZ-204 preparation. |
+| [**Copilot-Studio-Exercises**](https://github.com/Serio120/Copilot-Studio-Exercises) | Practical exercises and experiments with Microsoft Copilot Studio. |
 
 ---
 
@@ -95,7 +95,7 @@ Practicando desarrollo cloud y experimentando con herramientas de IA y automatiz
 </p>
 
 <p align="center">
-  <sub>SQL se representa mediante MySQL para garantizar compatibilidad con el set de iconos.</sub>
+  <sub>SQL is represented by the MySQL icon for compatibility with the available icon set.</sub>
 </p>
 
 ---
@@ -115,13 +115,13 @@ Practicando desarrollo cloud y experimentando con herramientas de IA y automatiz
 
 ## 📚 Learning & Open Source
 
-Mantengo repositorios de **roadmaps, laboratorios, ejercicios y recursos técnicos**. Mi objetivo es combinar aprendizaje continuo con proyectos prácticos que puedan servir como referencia a otros desarrolladores.
+I maintain repositories covering **roadmaps, technical labs, coding exercises, and learning resources**. My goal is to combine continuous learning with practical projects that can also serve as useful references for other developers.
 
-También utilizo GitHub como laboratorio personal para experimentar con nuevas tecnologías, arquitecturas y herramientas de desarrollo.
+I use GitHub as a personal technical lab to experiment with new technologies, architectures, development tools, and ideas.
 
-## 🤝 Let's build something
+## 🤝 Let's Build Something
 
-¿Tienes una idea, proyecto o recurso técnico en el que podamos colaborar?
+Have an idea, project, or technical resource you'd like to collaborate on?
 
 📌 **GitHub:** [github.com/Serio120](https://github.com/Serio120)
 
@@ -131,4 +131,4 @@ También utilizo GitHub como laboratorio personal para experimentar con nuevas t
   <i>Code · Learn · Build · Share</i>
 </p>
 
-<p align="center">⭐ Gracias por visitar mi perfil.</p>
+<p align="center">⭐ Thanks for visiting my profile.</p>

@@ -28,6 +28,27 @@ Desarrollador de software orientado a **Backend**, con experiencia práctica en 
 
 Me gusta aprender construyendo: APIs, automatizaciones, scrapers, pipelines de datos, aplicaciones frontend y laboratorios técnicos. También creo **roadmaps, ejercicios y recursos educativos** para convertir conceptos técnicos en práctica real.
 
+---
+
+## 🔥 Actualmente trabajando en
+
+### 🧭 Backend Development
+Profundizando en arquitectura backend, APIs, Java/Spring Boot y buenas prácticas de desarrollo.
+
+### ⚛️ React & Frontend
+Construyendo aplicaciones prácticas con React y reforzando JavaScript moderno, componentes y consumo de APIs.
+
+### 🐍 Python & Automation
+Experimentando con automatización, web scraping y procesamiento de información mediante Python.
+
+### 📊 Data Engineering & Big Data
+Explorando pipelines de datos, arquitectura Medallion, Scala y Apache Spark.
+
+### ☁️ Azure & AI Tools
+Practicando desarrollo cloud y experimentando con herramientas de IA y automatización como Azure y Microsoft Copilot Studio.
+
+---
+
 ## 🚀 Especialización
 
 | Área | Tecnologías / enfoque |
@@ -70,7 +91,11 @@ Me gusta aprender construyendo: APIs, automatizaciones, scrapers, pipelines de d
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,scala,react,angular,js,html,css,sql,mongodb,docker,azure,git,github" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,scala,react,angular,js,html,css,mysql,mongodb,docker,azure,git,github" alt="Tech Stack">
+</p>
+
+<p align="center">
+  <sub>SQL se representa mediante MySQL para garantizar compatibilidad con el set de iconos.</sub>
 </p>
 
 ---
@@ -78,7 +103,7 @@ Me gusta aprender construyendo: APIs, automatizaciones, scrapers, pipelines de d
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serio120&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Serio120&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serio120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
 </p>
 
